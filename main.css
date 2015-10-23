@@ -1,7 +1,13 @@
 header {
 	text-align: center;
-	background-color: black;
+	background-color: #232323;
 	color: white;
+}
+nav {
+	background: rgba(0, 0, 0, 0.5)
+	color: white;
+	vertical-align: left;
+	max-width: 250px;
 }
 h1 {
 	font-family: 'Indie Flower', cursive;

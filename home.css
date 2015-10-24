@@ -8,6 +8,7 @@ h2 {
 h3 {
 	font-family: 'Indie Flower', cursive;
 }
-article {
+.jumbotron {
 	text-align: center;
+	color: black;
 }

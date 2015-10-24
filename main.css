@@ -6,8 +6,10 @@ header {
 nav {
 	background: rgba(0, 0, 0, 0.5)
 	color: white;
+	text-align: left;
 	vertical-align: left;
-	max-width: 250px;
+	max-width: 200px;
+	display: block;
 }
 h1 {
 	font-family: 'Indie Flower', cursive;

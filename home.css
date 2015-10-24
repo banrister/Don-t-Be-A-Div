@@ -8,9 +8,9 @@ h2 {
 h3 {
 	font-family: 'Indie Flower', cursive;
 }
-.jumbotron {
-	text-align: center;
-	color: black;
+h4 {
+font-family: 'Advent Pro', sans-serif;
+font-size: 20px;
 }
 form {
 	color: white;
